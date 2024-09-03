@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Sarah
+-Profissão: Analista de Requisitos
+-Cidade:Palmas
+-O que faz nas horas vaga: leitura, academia, sair com amigos, conhecer novos lugares.
+-Feedback sobre o curso Qualidade de Software: no início o curso se apresentou muito complicado, mas agora, colocando a mão na massa, a compreensão mudou bastante.
+-Feedback sobre a plataforma de estudo da EBAC: uma boa plataforma. 
 
 Obrigado!!!
 
